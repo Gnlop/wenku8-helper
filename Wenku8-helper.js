@@ -8,12 +8,13 @@
 // @copyright    2025 Gnlop
 // @homepageURL  https://github.com/Gnlop/wenku8-helper
 // @supportURL   https://github.com/Gnlop/wenku8-helper/issues
-// @downloadURL  https://raw.githubusercontent.com/Gnlop/wenku8-helper/main/Wenku8%20轻小说文库数据库版-4.5.7.user.js
-// @updateURL    https://raw.githubusercontent.com/Gnlop/wenku8-helper/main/Wenku8%20轻小说文库数据库版-4.5.7.user.js
+// @downloadURL  https://raw.githubusercontent.com/Gnlop/wenku8-helper/main/Wenku8-Helper.user.js
+// @updateURL    https://raw.githubusercontent.com/Gnlop/wenku8-helper/main/Wenku8-Helper.user.js
 // @match        https://www.wenku8.net/book/*.htm
 // @match        https://www.wenku8.net/novel/*/*/index.htm
 // @match        https://www.wenku8.net/novel/*/*/*.htm
 // @icon         https://www.wenku8.net/favicon.ico
+// @run-at       document-idle
 // @grant        GM_xmlhttpRequest
 // @grant        GM_download
 // @connect      dl.wenku8.com
@@ -23,8 +24,8 @@
 // @connect      img.wenku8.com
 // @connect      i.wkcdn.net
 // @connect      pic.777743.xyz
-// @connect      *
 // ==/UserScript==
+
 
 (function () {
   'use strict';
