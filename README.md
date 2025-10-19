@@ -20,7 +20,7 @@ By using this script, you acknowledge that you understand and accept these terms
 
 ---
 ## 📸 Screenshots
-
+Below are blurred demonstration screenshots showing the overall workflow and interface of **Wenku8 Helper**.
 ### 🟦 Entry Interface
 <p align="center">
   <img src="images/preview1.png" width="48%">
