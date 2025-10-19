@@ -42,3 +42,4 @@ Below are blurred demonstration screenshots showing the overall workflow and int
 
 [![Star History Chart](https://api.star-history.com/svg?repos=Gnlop/wenku8-helper&type=Date)](https://star-history.com/#Gnlop/wenku8-helper&Date)
 
+
