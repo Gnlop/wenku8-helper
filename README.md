@@ -2,7 +2,7 @@
 Tampermonkey script for Wenku8 : A modern Wenku8 userscript for full-book download, online reading, and EPUB export.
 ---
 ## 🚀 Install
-[👉 Click to install (Tampermonkey)](https://raw.githubusercontent.com/Gnlop/wenku8-helper/main/Wenku8-Helper.user.js)
+[👉 Click to install (Tampermonkey)](https://raw.githubusercontent.com/Gnlop/wenku8-helper/main/Wenku8-helper.js)
 ---
 ## Disclaimer
 
