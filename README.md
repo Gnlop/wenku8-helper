@@ -17,3 +17,24 @@ By using this script, you acknowledge that you understand and accept these terms
 ---
 
 [![Star History Chart](https://api.star-history.com/svg?repos=Gnlop/wenku8-helper&type=Date)](https://star-history.com/#Gnlop/wenku8-helper&Date)
+
+---
+## 📸 Screenshots
+
+### 🟦 Entry Interface
+<p align="center">
+  <img src="images/preview1.png" width="48%">
+  <img src="images/preview2.png" width="48%">
+</p>
+
+### 📖 Reading Mode
+<p align="center">
+  <img src="images/preview3.png" width="80%">
+</p>
+
+### 📘 TXT → EPUB Export Workflow
+<p align="center">
+  <img src="images/preview4.png" width="32%">
+  <img src="images/preview5.png" width="32%">
+  <img src="images/preview6.png" width="32%">
+</p>
