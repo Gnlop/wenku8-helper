@@ -1,10 +1,15 @@
-// @copyright 2025 Gnlop. Licensed under MIT.
-// Please credit the original repository: https://github.com/Gnlop/wenku8-helper
-// @name         Wenku8-helper
+// ==UserScript==
+// @name         Wenku8 Helper
 // @namespace    https://wenku8-helper.local
 // @version      4.5.7
-// @description  一条龙
-// @author       you
+// @description  一条龙：Wenku8 全书下载 / 在线阅读 / EPUB 导出。
+// @author       Gnlop
+// @license      MIT
+// @copyright    2025 Gnlop
+// @homepageURL  https://github.com/Gnlop/wenku8-helper
+// @supportURL   https://github.com/Gnlop/wenku8-helper/issues
+// @downloadURL  https://raw.githubusercontent.com/Gnlop/wenku8-helper/main/Wenku8%20轻小说文库数据库版-4.5.7.user.js
+// @updateURL    https://raw.githubusercontent.com/Gnlop/wenku8-helper/main/Wenku8%20轻小说文库数据库版-4.5.7.user.js
 // @match        https://www.wenku8.net/book/*.htm
 // @match        https://www.wenku8.net/novel/*/*/index.htm
 // @match        https://www.wenku8.net/novel/*/*/*.htm
