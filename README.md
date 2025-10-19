@@ -1,6 +1,6 @@
 # wenku8-helper
 ![License](https://img.shields.io/badge/license-MIT-blue)
-![Userscript](https://img.shields.io/badge/Tampermonkey-compatible-success)
+![Userscript](https://img.shields.io/badge/Tampermonkey-compatible-success)**
 Tampermonkey script for Wenku8 : A modern Wenku8 userscript for full-book download, online reading, and EPUB export.
 
 
