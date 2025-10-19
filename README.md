@@ -1,5 +1,8 @@
 # wenku8-helper
 Tampermonkey script for Wenku8 : A modern Wenku8 userscript for full-book download, online reading, and EPUB export.
+![License](https://img.shields.io/badge/license-MIT-blue)
+![Userscript](https://img.shields.io/badge/Tampermonkey-compatible-success)
+
 ---
 ## 🚀 Install
 [👉 Click to install (Tampermonkey)](https://raw.githubusercontent.com/Gnlop/wenku8-helper/main/Wenku8-Helper.user.js)
