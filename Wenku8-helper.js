@@ -1,4 +1,5 @@
-// ==UserScript==
+// @copyright 2025 Gnlop. Licensed under MIT.
+// Please credit the original repository: https://github.com/Gnlop/wenku8-helper
 // @name         Wenku8-helper
 // @namespace    https://wenku8-helper.local
 // @version      4.5.7
