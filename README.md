@@ -5,11 +5,11 @@
 ![Version](https://img.shields.io/badge/version-4.5.7-brightgreen)
 ![Build](https://img.shields.io/badge/build-stable-blueviolet)
 
-> 🪶 **A modern Tampermonkey userscript for Wenku8 — enabling full-book reading, EPUB export, and clean UI.**
+>  **A modern Tampermonkey userscript for Wenku8 — enabling full-book reading, EPUB export, and clean UI.**
 
 ---
 
-## 🚀 Install
+##  Install
 
 [👉 **Click to install (Tampermonkey)**](https://raw.githubusercontent.com/Gnlop/wenku8-helper/main/Wenku8-Helper.user.js)
 
@@ -18,33 +18,33 @@
 
 ---
 
-## ✨ Features
+##  Features
 
-- 📖 **Full-book & volume parsing** — Access entire books or single volumes directly.  
-- ⚙️ **Smart chapter splitting** — Regex-based detection with editable rules.  
-- 💾 **Local export** — Save as `.txt` or convert to `.epub` (no server required).  
-- 🎨 **Modern reader UI** — Dark/light theme, font, line height, and column controls.  
-- 🧠 **Persistent preferences** — Remembers layout, font size, and theme per device.  
-- 🪶 **Non-intrusive design** — Integrates seamlessly with Wenku8’s layout.
+-  **Full-book & volume parsing** — Access entire books or single volumes directly.  
+-  **Smart chapter splitting** — Regex-based detection with editable rules.  
+-  **Local export** — Save as `.txt` or convert to `.epub` (no server required).  
+-  **Modern reader UI** — Dark/light theme, font, line height, and column controls.  
+-  **Persistent preferences** — Remembers layout, font size, and theme per device.  
+-  **Non-intrusive design** — Integrates seamlessly with Wenku8’s layout.
 
 ---
 
-## 📸 Screenshots
+##  Screenshots
 
 Below are blurred demonstration screenshots showing the workflow and interface of **Wenku8 Helper**.
 
-### 🟦 Entry Interface
+###  Entry Interface
 <p align="center">
   <img src="images/preview1.png" width="48%">
   <img src="images/preview2.png" width="48%">
 </p>
 
-### 📖 Reading Mode
+###  Reading Mode
 <p align="center">
   <img src="images/preview3.png" width="80%">
 </p>
 
-### 📘 TXT → EPUB Export Workflow
+###  TXT → EPUB Export Workflow
 <p align="center">
   <img src="images/preview4.png" width="32%">
   <img src="images/preview5.png" width="32%">
@@ -56,7 +56,7 @@ Below are blurred demonstration screenshots showing the workflow and interface o
 
 ---
 
-## ⚖️ Disclaimer
+##  Disclaimer
 
 This userscript is provided **for research, educational, and personal archival purposes only**.  
 It is **not affiliated with, endorsed by, or supported by Wenku8** or any related entities.  
@@ -71,13 +71,13 @@ By using this script, you acknowledge that you understand and accept these terms
 
 ---
 
-## ⭐ Star History
+##  Star History
 
 [![Star History Chart](https://api.star-history.com/svg?repos=Gnlop/wenku8-helper&type=Date)](https://star-history.com/#Gnlop/wenku8-helper&Date)
 
 ---
 
-## 📜 License
+##  License
 
 Released under the [MIT License](LICENSE).  
 © 2025 Gnlop. All rights reserved.
