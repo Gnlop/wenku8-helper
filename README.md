@@ -14,3 +14,4 @@ The author of this script **does not host, store, or distribute any copyrighted 
 By using this script, you acknowledge that you understand and accept these terms.  
 
 > The author assumes no liability for any misuse or damages arising from the use of this software.
+[![Star History Chart](https://api.star-history.com/svg?repos=Gnlop/wenku8-helper&type=Date)](https://star-history.com/#Gnlop/wenku8-helper&Date)
