@@ -8,8 +8,8 @@
 // @copyright    2025 Gnlop
 // @homepageURL  https://github.com/Gnlop/wenku8-helper
 // @supportURL   https://github.com/Gnlop/wenku8-helper/issues
-// @downloadURL  https://raw.githubusercontent.com/Gnlop/wenku8-helper/main/Wenku8-Helper.user.js
-// @updateURL    https://raw.githubusercontent.com/Gnlop/wenku8-helper/main/Wenku8-Helper.user.js
+// @downloadURL  https://raw.githubusercontent.com/Gnlop/wenku8-helper/main/Wenku8-Helper.js
+// @updateURL    https://raw.githubusercontent.com/Gnlop/wenku8-helper/main/Wenku8-Helper.js
 // @match        https://www.wenku8.net/book/*.htm
 // @match        https://www.wenku8.net/novel/*/*/index.htm
 // @match        https://www.wenku8.net/novel/*/*/*.htm
